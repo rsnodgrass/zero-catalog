@@ -1,12 +1,10 @@
 {
-  "lastUpdated": "2025-01-07",
   "plugins": [
     {
       "id": "daily-inspiration",
       "repository": "https://github.com/rsnodgrass/zero-inspire",
       "category": "productivity",
-      "description": "AI-powered motivational quotes delivered every morning and on-demand via +inspire emails",
-      "author": "Ryan Snodgrass"
+      "description": "AI-powered motivational quotes delivered every morning and on-demand via +inspire emails"
     }
   ]
 }
